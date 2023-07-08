@@ -22,7 +22,7 @@ To set up and run the automated testing project, ensure you have the following p
 Follow these steps to set up the project:
 
 **1. Clone the repository to your local machine:**
-git clone https://github.com/your-username/automated-testing-project.git
+git clone https://github.com//automated-testing-project.git
 
 **2. Navigate to the project directory:**
 cd automated-testing-project
